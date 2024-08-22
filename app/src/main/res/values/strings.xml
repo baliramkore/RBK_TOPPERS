@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RBK_Trends</string>
+    <string name="api_key"></string>
+    <string name="api_host"></string>
+</resources>
